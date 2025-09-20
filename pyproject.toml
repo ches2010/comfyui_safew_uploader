@@ -1,0 +1,8 @@
+[tool.comfyui]
+name = "ComfyUI-SafeW-Uploader"
+version = "1.0.0"
+description = "Upload images from ComfyUI to SafeW channel with preview"
+author = "YourName"
+license = "MIT"
+tags = ["safew", "upload", "image", "bot", "automation"]
+repo = "https://github.com/yourname/ComfyUI-SafeW-Uploader"
