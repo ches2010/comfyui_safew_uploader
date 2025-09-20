@@ -1,0 +1,8 @@
+{
+  "title": "ComfyUI SafeW Uploader",
+  "description": "Upload images to SafeW channel with preview",
+  "author": "yourname",
+  "license": "MIT",
+  "repo": "https://github.com/yourname/ComfyUI-SafeW-Uploader",
+  "categories": ["upload", "safew", "utility"]
+}
