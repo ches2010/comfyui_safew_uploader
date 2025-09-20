@@ -31,7 +31,7 @@
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/yourname/ComfyUI-SafeW-Uploader.git
+git clone https://github.com/ches2010/ComfyUI-SafeW-Uploader.git
 ```
 
 
