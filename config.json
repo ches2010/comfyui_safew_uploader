@@ -1,0 +1,10 @@
+{
+  "default": {
+    "token": "123456:ABC-DEF...",
+    "chat_id": "@mychannel"
+  },
+  "backup": {
+    "token": "789012:XYZ...",
+    "chat_id": "-100123456789"
+  }
+}
